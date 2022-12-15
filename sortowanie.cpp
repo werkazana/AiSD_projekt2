@@ -157,7 +157,7 @@ void zapisz_ciag_do_pliku(std::string nazwa_pliku, std::vector<int> tab)
 }
 
 /////////////////////////////////////////////////////////////////////
-// funkcja odczytuje tablice elementow float z pliku
+// funkcja zapisuje tablice elementow float do pliku
 void zapisz_ciag_floatow_do_pliku(std::string nazwa_pliku, std::vector<double> tab)
 {
     std::fstream plik;
